@@ -1,0 +1,33 @@
+_repo: The-Empire-of-Love_19134
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dawson, W. J. (William James)
+    alias: Dawson, William James
+    birthdate: 1854
+    deathdate: 1928
+    gutenberg_agent_id: '7248'
+    url: http://www.gutenberg.org/2009/agents/7248
+description: ''
+gutenberg_issued: '2006-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19134'
+  lccn: 07012884
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Love -- Religious aspects -- Christianity'
+tableOfContents: The genius to be loved -- What is Christianity? -- The justice of
+  Jesus -- Love is justice -- Love and forgiveness -- The practice of love -- Love
+  and judgment -- The wisdom of the simple -- The revelations of grief -- A confession
+  -- A lover of men -- The law of compassion -- The empire of love -- The builders
+  of the empire.
+title: The Empire of Love
+url: http://www.gutenberg.org/ebooks/19134
